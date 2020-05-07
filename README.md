@@ -7,7 +7,9 @@
 </center>
 
 ## SERVER端安裝
-
+<center class="half">
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/FightLandlord/1588827127500.jpg?raw=true" width="800"/>
+</center>
 ```node
 //init時，entry point請輸入app.js
 npm init
@@ -16,7 +18,9 @@ npm install mysql --save
 ```
 
 ## 數據庫操作
-
+<center class="half">
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/FightLandlord/1588827229042.jpg?raw=true" width="700"/>
+</center>
 需安裝MySQL Workbench，並如下操作
 ```sql
 create database fightlandlord;
