@@ -3,7 +3,7 @@
 ## Client端
 [鬥地主](https://ivesshe.github.io/FightLandlord/)
 <center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/FightLandlord/S__38658051.jpg?raw=true" width="500"/>
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/FightLandlord/S__38658051.jpg?raw=true" width="600"/>
 </center>
 
 ## SERVER端安裝
