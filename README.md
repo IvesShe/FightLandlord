@@ -21,6 +21,7 @@ npm install mysql --save
 <center class="half">
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/FightLandlord/1588827229042.jpg?raw=true" width="700"/>
 </center>
+
 需安裝MySQL Workbench，並如下操作
 ```sql
 create database fightlandlord;
