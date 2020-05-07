@@ -1,4 +1,4 @@
-# 鬥地主COCOS CREATOR
+# 鬥地主(Cocos Creator + Node.js + MySQL)(開發中)
 
 ## Client端
 [鬥地主](https://ivesshe.github.io/FightLandlord/)
