@@ -1,4 +1,4 @@
-# 鬥地主COCOS CREATOR實作
+# 鬥地主COCOS CREATOR
 
 ## Client端
 [鬥地主](https://ivesshe.github.io/FightLandlord/)
@@ -6,7 +6,7 @@
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/FightLandlord/S__38658051.jpg?raw=true" width="600"/>
 </center>
 
-## SERVER端安裝
+## SERVER端
 <center class="half">
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/FightLandlord/1588827127500.jpg?raw=true" width="800"/>
 </center>
@@ -17,7 +17,7 @@ npm install socket.io --save
 npm install mysql --save
 ```
 
-## 數據庫操作
+## 數據庫端
 <center class="half">
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/FightLandlord/1588827229042.jpg?raw=true" width="700"/>
 </center>
