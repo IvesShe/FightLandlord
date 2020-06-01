@@ -10,6 +10,7 @@
 <center class="half">
     <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/FightLandlord/1588827127500.jpg?raw=true" width="800"/>
 </center>
+
 ```node
 //init時，entry point請輸入app.js
 npm init
